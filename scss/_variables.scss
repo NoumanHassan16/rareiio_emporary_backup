@@ -1,0 +1,30 @@
+$base-text-color: #141414;
+$base-background-color: #F1F1F1;
+$white: #fff;
+$border-color: #707070;
+$btn-success-color: #17C488;
+
+$base-link-color: #666;
+$base-form-text-color: #000;
+$base-form-placeholder-color: #999;
+$base-input-border-color: #999;
+
+
+$base-font-size: 12px;
+$base-line-height: 1.2;
+$base-font-family: Arial, Helvetica, sans-serif;
+
+$base-min-width: 320px;
+
+$blue: #2d6cc2;
+$blue-light: #3c8fff;
+
+// breakpoints
+$desktop: min-width 1025px; 	// for more than 1024px width
+$tablet: 1024px; 				// tablet
+$tablet-range: 768px 1023px; 	// sample ragne
+$mobile: 767px; 				// mobile
+$mobile-hi-res: 767px (min-resolution 1.5dppx);  // mobile retina
+
+// @font-face-serif: 
+// @font-face-sans-serif: 
